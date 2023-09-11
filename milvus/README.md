@@ -4,8 +4,8 @@ Collection of samples that use the [Milvus C# SDK](https://www.nuget.org/package
 
 ## Get Started
 
-1. Open repo in Codespaces.
-1. Open [Getting Stared](./getting-started.ipynb) sample notebook and run all cells
+1. [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/luisquintanilla/dotnet-ai-playground/tree/milvus-samples)
+1. Open [Getting Started](./getting-started.ipynb) sample notebook and run all cells
 1. (Optional) Add Azure OpenAI Credentials. This is required for the [Azure OpenAI Embeddings](./aoai-embeddings.ipynb) sample. 
 
 ## Samples
