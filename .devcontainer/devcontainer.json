@@ -21,5 +21,6 @@
         "AOAI_DEPLOYMENTID": "",
         "AOAI_ENDPOINT": "",
         "AOAI_KEY": ""
-    }
+    },
+    "postCreateCommand": "docker compose up -d"
 }
